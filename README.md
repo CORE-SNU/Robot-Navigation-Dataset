@@ -64,9 +64,9 @@ If you use **this datasets** in your research, please use the following BibTeX e
 
 ``` bibtex
 @misc{jaeukshin2024robot,
-  author =       {Jaeuk Shin},
+  author =       {Jaeuk Shin, Gihwan Kim},
   title =        {Robot Navigation},
-  howpublished = {\url{[http://github.com/hubtime-kmbae/CAML](https://github.com/CORE-SNU/Robot-Navigation-Dataset)}},
+  howpublished = {\url{https://github.com/CORE-SNU/Robot-Navigation-Dataset}},
   year =         {2024}
 }
 ```
